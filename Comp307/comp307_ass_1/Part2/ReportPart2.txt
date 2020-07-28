@@ -1,0 +1,99 @@
+1.
+ASCITES= True:
+   SPIDERS= True:
+      VARICES= True:
+         STEROID= True:
+            Class: live prob=1.0
+         STEROID= False:
+            SPLEENPALPABLE= True:
+               FIRMLIVER= True:
+                  Class: live prob=1.0
+               FIRMLIVER= False:
+                  BIGLIVER= True:
+                     SGOT= True:
+                        Class: live prob=1.0
+                     SGOT= False:
+                        FEMALE= True:
+                           Class: live prob=1.0
+                        FEMALE= False:
+                           ANOREXIA= True:
+                              Class: die prob=1.0
+                           ANOREXIA= False:
+                              Class: live prob=1.0
+                  BIGLIVER= False:
+                     Class: live prob=1.0
+            SPLEENPALPABLE= False:
+               ANOREXIA= True:
+                  Class: live prob=1.0
+               ANOREXIA= False:
+                  Class: die prob=1.0
+      VARICES= False:
+         Class: die prob=1.0
+   SPIDERS= False:
+      FIRMLIVER= True:
+         ANOREXIA= True:
+            SGOT= True:
+               Class: live prob=1.0
+            SGOT= False:
+               Class: die prob=1.0
+         ANOREXIA= False:
+            Class: live prob=1.0
+      FIRMLIVER= False:
+         SGOT= True:
+            BIGLIVER= True:
+               Class: live prob=1.0
+            BIGLIVER= False:
+               Class: die prob=1.0
+         SGOT= False:
+            Class: live prob=1.0
+ASCITES= False:
+   BIGLIVER= True:
+      VARICES= True:
+         FIRMLIVER= True:
+            STEROID= True:
+               Class: die prob=1.0
+            STEROID= False:
+               BILIRUBIN= True:
+                  Class: live prob=1.0
+               BILIRUBIN= False:
+                  Class: die prob=1.0
+         FIRMLIVER= False:
+            Class: live prob=1.0
+      VARICES= False:
+         Class: die prob=1.0
+   BIGLIVER= False:
+      Class: live prob=1.0
+
+Correct predictions: 19
+Incorrect Predictions: 6
+Accuracy: 0.76
+
+
+
+2.
+(Training Run, Accuraccy)
+(0, 0.8666666666666667)
+(1, 0.8)
+(2, 0.6666666666666666)
+(3, 0.7)
+(4, 0.8)
+(5, 0.6666666666666666)
+(6, 0.8)
+(7, 0.7666666666666667)
+(8, 0.6666666666666666)
+(9, 0.7333333333333333)
+
+Working : sum the averages and divide by the number of runs(10)
+('Acc Avg:', 0.7466666666666667)
+
+3. Pruning
+a) You could prune leaves from this decision tree by finding any attribute pair whos elmination results in a satisfactory (small) increase in impurity. You remove these pairs and replace the common parent node with a leaf node.
+
+b)
+It would reduce accuracy on the training set simply because you have increase impurity on some of the leaf nodes. sThis means some of the training data set which falls in these impure leaf nodes will be predicted inaccuratly. 
+c) Because it reduces overfitting, meaning it is less susceptable to noise in the trainingset. This could improve predictions in the test set.  
+
+4. 
+The method of multiplying probabilitys of each class to get an impurity measure would not work wel with 3 or more class. This is simply because if 1 of the classes has 0 instances in the current node, the impurity will be calculated as 0. This is obviously not ideal as the node could be impure, having a mixture of the remaining classes. 
+
+

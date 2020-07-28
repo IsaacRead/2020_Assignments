@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="4.0"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+   http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+
+
+	<servlet>
+		<servlet-name>logs</servlet-name>
+		<servlet-class>nz.ac.vuw.swen301.a2.server.LogsServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>logs</servlet-name>
+		<url-pattern>/logs</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>statsxls</servlet-name>
+		<servlet-class>nz.ac.vuw.swen301.a2.server.StatsXLSServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>statsxls</servlet-name>
+		<url-pattern>/statsxls</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>statsHtml</servlet-name>
+		<servlet-class>nz.ac.vuw.swen301.a2.server.StatsServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>statsHtml</servlet-name>
+		<url-pattern>/stats</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>statsCsv</servlet-name>
+		<servlet-class>nz.ac.vuw.swen301.a2.server.StatsCSVServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>statsCsv</servlet-name>
+		<url-pattern>/statscsv</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>statsPng</servlet-name>
+		<servlet-class>nz.ac.vuw.swen301.a2.server.StatsPNGServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>statsPng</servlet-name>
+		<url-pattern>/statspng</url-pattern>
+	</servlet-mapping>
+</web-app>

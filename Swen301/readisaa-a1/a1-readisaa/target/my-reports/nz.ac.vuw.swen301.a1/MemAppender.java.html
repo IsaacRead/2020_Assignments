@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>MemAppender.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">a1-readisaa</a> &gt; <a href="index.source.html" class="el_package">nz.ac.vuw.swen301.a1</a> &gt; <span class="el_source">MemAppender.java</span></div><h1>MemAppender.java</h1><pre class="source lang-java linenums">package nz.ac.vuw.swen301.a1;
+
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
+
+import org.apache.log4j.AppenderSkeleton;
+import org.apache.log4j.Layout;
+import org.apache.log4j.PatternLayout;
+import org.apache.log4j.spi.LoggingEvent;
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+<span class="fc" id="L17">public class MemAppender extends AppenderSkeleton implements MemAppenderMBean {</span>
+	//util.list??
+	//name property already exists???
+<span class="fc" id="L20">	private List&lt;LoggingEvent&gt; logs = new LinkedList&lt;LoggingEvent&gt;(); </span>
+<span class="fc" id="L21">	private long maxSize = 1000;</span>
+	private long discardedLogCount;
+	
+	public long getDiscardedLogCount() {
+<span class="fc" id="L25">		return discardedLogCount;</span>
+	}
+	
+	public long getMaxSize() {
+<span class="fc" id="L29">		return maxSize;</span>
+	}
+	
+	public boolean setMaxSize(long maxSize) {
+<span class="fc bfc" id="L33" title="All 2 branches covered.">		if (maxSize &lt; 0) {</span>
+<span class="fc" id="L34">			return false;</span>
+		}else {
+<span class="fc" id="L36">		this.maxSize = maxSize;</span>
+<span class="fc" id="L37">		checkMaxSize();</span>
+<span class="fc" id="L38">		return true;</span>
+		}
+	}
+	
+	@Override
+	public void close() {
+
+<span class="nc" id="L45">	}</span>
+
+	@Override
+	public boolean requiresLayout() {
+<span class="nc" id="L49">		return false;</span>
+	}
+
+	@Override
+	protected void append(LoggingEvent event) {
+<span class="fc" id="L54">		logs.add(event);</span>
+<span class="fc" id="L55">		checkMaxSize();</span>
+<span class="fc" id="L56">	}</span>
+	
+	private void checkMaxSize() {	
+<span class="fc bfc" id="L59" title="All 2 branches covered.">		while (getLogCount() &gt; maxSize){</span>
+<span class="fc" id="L60">			logs.remove(0);</span>
+<span class="fc" id="L61">			discardedLogCount++;</span>
+		}
+<span class="fc" id="L63">	}</span>
+	
+	public List&lt;LoggingEvent&gt; getCurrentLogs(){
+<span class="fc" id="L66">		return Collections.unmodifiableList(logs);</span>
+	}
+	
+	public void exportToJSON(String fileName) throws FileNotFoundException {
+<span class="fc" id="L70">		JSONLayout jLayout = new JSONLayout();</span>
+<span class="fc" id="L71">		JSONArray jArr = new JSONArray();</span>
+<span class="fc bfc" id="L72" title="All 2 branches covered.">		for (int i = 0; i &lt; getLogCount(); i++) {</span>
+<span class="fc" id="L73">			JSONObject jObj = new JSONObject(jLayout.format(logs.get(i)));</span>
+<span class="fc" id="L74">			jArr.put(jObj);</span>
+		}
+<span class="fc" id="L76">		PrintWriter out = new PrintWriter(fileName);</span>
+<span class="fc" id="L77">		out.print(jArr.toString(3));</span>
+<span class="fc" id="L78">		out.close();</span>
+		
+		
+<span class="fc" id="L81">	}</span>
+
+	@Override
+	public String[] getLogs() {
+<span class="fc" id="L85">		String[] logStrings = new String[(int)getLogCount()];</span>
+<span class="fc bfc" id="L86" title="All 2 branches covered.">		for (int i = 0; i &lt; getLogCount(); i++) {</span>
+<span class="fc" id="L87">			PatternLayout patLayout = new PatternLayout();</span>
+<span class="fc" id="L88">			logStrings[i] = patLayout.format(logs.get(i));</span>
+		}
+<span class="fc" id="L90">		return logStrings;</span>
+	}
+
+	@Override
+	public long getLogCount() {
+<span class="fc" id="L95">		return logs.size();</span>
+	}
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.3.201901230119</span></div></body></html>

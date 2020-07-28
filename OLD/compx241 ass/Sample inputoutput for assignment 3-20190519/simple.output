@@ -1,0 +1,35 @@
+box INSERTED
+box of INSERTED
+box of toys INSERTED
+box are INSERTED
+box of not INSERTED
+box of toys DELETED
+box of not but INSERTED
+box of not DELETED
+box are apples INSERTED
+box of but either INSERTED
+box of should INSERTED
+box of should they INSERTED
+box are be INSERTED
+box of should short INSERTED
+box of DELETED
+box are be bags INSERTED
+box short but DELETED
+box short either not INSERTED
+box short should they the INSERTED
+box DELETED
+either short not make INSERTED
+either short should they the DELETED
+either short DELETED
+either DELETED
+make are be bags DELETED
+make should not or INSERTED
+make are apples DELETED
+LEXICON:
+are
+be
+make
+not
+or
+should
+they

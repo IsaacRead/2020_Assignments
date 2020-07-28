@@ -1,0 +1,44 @@
+[
+   {
+      "level": "TRACE",
+      "logger": "loggerJSON1",
+      "starttime": 0,
+      "thread": "main",
+      "message": "logmessage 0"
+   },
+   {
+      "level": "DEBUG",
+      "logger": "loggerJSON1",
+      "starttime": 20,
+      "thread": "main",
+      "message": "logmessage 1"
+   },
+   {
+      "level": "INFO",
+      "logger": "loggerJSON1",
+      "starttime": 400,
+      "thread": "main",
+      "message": "logmessage 2"
+   },
+   {
+      "level": "WARN",
+      "logger": "loggerJSON1",
+      "starttime": 6000,
+      "thread": "main",
+      "message": "logmessage 3"
+   },
+   {
+      "level": "ERROR",
+      "logger": "loggerJSON1",
+      "starttime": 8888,
+      "thread": "main",
+      "message": "logmessage 4"
+   },
+   {
+      "level": "FATAL",
+      "logger": "loggerJSON1",
+      "starttime": 16665,
+      "thread": "main",
+      "message": "logmessage 5"
+   }
+]

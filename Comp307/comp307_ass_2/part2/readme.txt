@@ -1,0 +1,29 @@
+open console:
+
+python3 part2Final.py
+
+Sample output:
+
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+test 0.9775280898876404
+train 1.0
+testAvg 0.9775280898876402
+trainAvg 1.0
+

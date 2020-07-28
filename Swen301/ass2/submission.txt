@@ -1,0 +1,2 @@
+https://gitlab.ecs.vuw.ac.nz/course-work/swen301/2020/readisaa/a2-server	v3.0.0
+https://gitlab.ecs.vuw.ac.nz/course-work/swen301/2020/readisaa/a2-client	v2.0.0

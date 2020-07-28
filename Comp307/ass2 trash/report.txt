@@ -1,0 +1,85 @@
+
+Part 1:
+
+
+1. Report the classification accuracy your perceptron learning algorithm after running 200 epochs.
+
+The classification accuracy was 0.75 after 200 epochs, this is calculated by using the perceptron to classify all data points and dividing the number of correct classifications divided by the total number of data points.  
+
+
+2. Analyse and describe reasons that your algorithm could not achieve better results.
+
+Although the accuracy was 0.75 after 200 epochs, the accuracy fluxuated from 0.5 to 0.75. This is due to the fact that the data was not linerly seperable, this is a limitiation of perceptrons. They are limited to making classification with linearly seperable data. 
+While the perceptron had its maximum accuracy of 0.75 and it was presented with a data point which it predicted wrong, it would change the weights values to correct the prediction on that particular data point, this would reduce the overall accuracy. This is why the accuracy fluctuated. 
+
+
+Part 2:
+1. Determine and report the network architecture, including the number of input nodes, the number
+of output nodes, the number of hidden nodes (assume only one hidden layer is used here). Describe
+the rationale of your choice.
+
+I used Scikit-Learn's implementation of a Multi-Layer Perceptron. I used this package as I am most 
+comfortable in programmning with python and Scikit learn is a well known Machine learning package for python which I have been interested in learning. 
+
+I used MLPClassifier because it was designed for this purpose: Predicting labels for data.
+
+For the solver parameter I chose 'lbfgs'. This was recomended by scikit-Learn documentation as the best solver for small data sets. quote - "The default solver ‘adam’ works pretty well on relatively large datasets (with thousands of training samples or more) in terms of both training time and validation score. For small datasets, however, ‘lbfgs’ can converge faster and perform 	better." I determined the wine data set was small as it had much less then "thousands of training samples".
+
+Inititaly the Network did not perform well, the console logs reported that it was failing to converge and recomemded scaling the data.
+I used standard scaler to scale the training and test data around 0 with normal distribution. This ment that each feature was equally weighted, before scaling it would weight the features with higher numbers more.
+This improved the results considerably.
+
+The number of input nodes is the number of features plus 1 bias node. 14 total for the wine data. 
+The number of output nodes is the number of labels so 3 for wine data.
+
+I used wrote my own grid search to detirmine the alpha number and the number of hidden nodes (1 layer) as these 2 parameters seemed to have the most impact. I tried various combinations of alpha ranging from 0.0001 to 100 going up in factors of 10, and number of hidden nodes from 1 to 20. I actually found that once I hit the sweet spot of 1.0 alpha, adding more then 2 hidden nodes had no impact on average accuracy on the test set. I decided to use the minimum number of hidden nodes providing the best accuracy as this would reduce the complexity of the network, 2 hidden nodes.
+
+
+2. Determine the learning parameters, including the learning rate, momentum, initial weight ranges,
+and any other parameters you used. Describe the rationale of your choice.
+
+I did not set any of learning rate, momentum or initial weight ranges. These cannot be set when using ‘lbfgs’ with Scikit-Learn's MLPClassifier. You might consider the aplha parameter a learning parameter, as discused above I used a grid seach to determine the best value for this of 1.0 . Other parameters available did not seem to have much of an impact so I left these as default.
+
+
+3. Determine your network training termination criteria. Describe the rationale of your decision.
+
+
+4. Report your results (average results of 10 independent experiment runs with different random
+seeds) on both the training set and the test set. Analyse your results and make your conclusions.
+
+
+5. (optional/bonus 5 marks) Compare the performance of this method (neural networks) and the
+nearest neighbour methods.
+
+
+
+Part 3:
+1. Determine a good terminal set for this task.
+2. Determine a good function set for this task.
+
+
+3. Construct a good fitness function and describe it using plain language, and mathematical formula
+(or any other format that can describe the fitness function as accurately as mathematical formula,
+such as pseudo code).
+4. Describe the relevant parameter values and the stopping criteria you used.
+5. Report the mean squared error for each of 10 independent runs with different random seeds, and
+their average value.
+6. List three different best programs and their fitness values.
+7. (optional, bonus, 5 marks) Analyse one of the best programs and explain why it can solve the
+problem in the task
+
+
+part 4:
+1. Determine a good terminal set for this task.
+2. Determine a good function set for this task.
+3. Construct a good fitness function and describe it using plain language, and mathematical formula
+(or any other format that can describe the fitness function as accurately as mathematical formula,
+such as pseudo code).
+4. Describe the relevant parameter values and the stopping criteria you used.
+5. Describe your main considerations in splitting the original data set into a training set training.txt
+and a test set test.txt.
+6. Report the classification accuracy (average accuracy over 10 independent experiment runs with
+different random seeds) on both the training set and the test set.
+7. List three best programs evolved by GP and the fitness value of them.
+8. (optional, bonus, 5 marks) Analyse one of best programs to identify patterns you can find in the
+evolved/learned program and why it can solve the problem well (or badly).

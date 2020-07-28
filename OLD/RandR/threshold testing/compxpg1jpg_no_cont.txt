@@ -1,0 +1,88 @@
+   
+
+   
+     
+ 
+       
+     
+  
+ 
+ 
+
+otherwise create a new plant as per the existing
+there is an existing plant in that position by X
+plants, and calling the IsClicked method, passing
+position. Can you say what plant is at that position, |
+
+  
+
+ 
+  
+   
+
+Task 2: BlackJack continued
+
+use Save As am Visual —_ as this only makes a copy of one f
+
+not the whole project.
+
+ 
+
+Z
+
+  
+
+i Modify your code so that it has a list of cards representing the
+hand, Add’ list box to show all of the players cards’ (instead of the
+
+text boxes). Add a button so the player can get an extra card.
+
+Then loop through the list and display the list in the listbox
+Also, keep a total of the points from the cards in the players hand (list)
+Display this total.
+
+   
+ 
+
+   
+     
+ 
+    
+   
+    
+     
+    
+   
+   
+    
+     
+     
+    
+   
+
+2 When you have this working, do the same for the computers hand. Make? |
+
+"the computer always take an extra card if their total is less than 15%
+
+‘ If you implemented the betting, then the player automatically gets paid if
+their hand size is 5 or more cards and the sum is still 21 or less.
+
+Task 3: Reward Points continued
+
+1. The file timmovies.csv contains the movie viewing details of a customer
+called Tim. Write a program that reads each line from the file and creates
+a movie viewing object using the data. It then checks if the points have
+expired (using today’s date), and displays the information about the
+points with either the word “expired” or “unclaimed”. You do not need to
+store all of the movie viewing objects at this stage (see below). You can
+also check your code on the file gawain.csv.
+
+2 Extend your code to store a list of movie-viewing objects along with the
+members number. Change the code from step 1 to check if the points
+have expired by looping through the list, rather than as they have been
+read from the file. Note that this will now need to happen after you have
+
+finished reading the file. Check that your points expiry code still works.
+
+ 
+

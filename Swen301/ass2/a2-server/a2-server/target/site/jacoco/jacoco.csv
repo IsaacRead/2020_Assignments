@@ -1,0 +1,18 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,StatsCSVServlet,0,55,0,4,0,11,0,4,0,2
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,StatsXLSServlet,10,70,3,5,1,19,2,4,0,2
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsServlet,0,262,0,28,0,80,0,20,0,6
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics.new ArrayList() {...},0,7,0,0,0,2,0,1,0,1
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,LogsStatistics,47,317,6,28,11,60,6,15,2,2
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,StatsServlet,0,99,0,6,0,26,0,5,0,2
+a2-server Maven Webapp,nz.ac.vuw.swen301.a2.server,StatsPNGServlet,0,93,0,6,0,20,0,5,0,2

@@ -1,0 +1,143 @@
+1. 
+Class predictions on test set, K = 1 
+Actual  Predicted
+3	3
+3	3
+3	3
+1	1
+1	1
+1	1
+2	1
+2	2
+1	1
+2	2
+2	2
+2	3
+3	3
+3	3
+1	1
+2	2
+3	3
+3	3
+1	1
+1	1
+3	3
+2	2
+2	2
+3	3
+2	2
+2	3
+2	2
+3	3
+2	2
+1	1
+2	2
+1	1
+2	2
+1	1
+2	2
+2	2
+2	2
+2	2
+2	2
+1	1
+2	2
+2	2
+3	3
+1	1
+2	2
+1	1
+3	3
+2	2
+2	2
+1	1
+3	3
+1	1
+1	1
+3	3
+3	3
+1	1
+1	1
+3	3
+1	1
+3	3
+3	3
+2	1
+2	2
+3	3
+2	2
+3	3
+3	3
+1	1
+1	1
+2	2
+2	2
+3	3
+2	2
+2	2
+1	1
+1	1
+1	1
+3	3
+1	1
+1	1
+2	2
+2	2
+3	3
+1	1
+2	2
+1	1
+1	1
+2	2
+1	1
+Number of Correct Predictions: 85
+Number of Incorrect Predictions: 4
+Accuracy 0.955056179775
+
+
+2. 
+k = 3
+
+Number of Correct Predictions: 83
+Number of Incorrect Predictions: 6
+Accuracy 0.932584269663
+
+Its interesting that a K value of 1 performed slightly better then a k value of 3, with k=1 getting 2 more correct. This could mean there is an unstable decision boundry in this data set. I suspect that if the dataset was larger that a k value of 3 would provide better results as a k value of 1 is quite susceptable to noise. 
+
+
+3. 
+The advantages of KNN:
+	#Fast and easy to implement.
+	#There is no training period, it learns from the training set only at the time of making predictions, this means more training data can seemlessly be added. 
+	#Computationally inexpensive with a small data set.
+
+The disadvantages of KNN:
+	#Does not work well in higher dimensions - if you have say 10 dimensional data, 2 training data instances with very different values could actually be very close in distance from a test instance.
+	#Might not work well with a very large data set, the computational cost of calculating the distance between every test instance and every training instance could be very large with a huge data set.
+	#Sensitive to noise and missing data. 
+
+
+4. 
+k-fold cross validation method for Wine data with k = 5
+	#Chop the full data set into 5 equally sized subsets
+	#For each subset: treat it as the test set and treat the rest of the subsets as the training set. Run the KNN algorithm using this training set to make predictions on this test set. Compute the accuracy of this prediction and store it. This is repeated K times with each subset being used exactly once as the test set.
+	#Average the accuracy of each run to produce a sinlge estimation of the algorithm's accuracy
+	#This average can be used to compare the performance of this algorythm to others, could be used to choose the best KNN-K-Value.   
+
+
+
+5.
+If class lables were not availible you would use K-means Clustering.
+Major Steps of K-Means Clustering with 3 clusters:
+	#Set 3 initial "means" randomly from the training data set
+	#Create 3 initial clusters by associating every training instance with the nearest mean based on a distance measure
+	#Replace the old means with the centroid of each of these new clusters.
+	#Repeat the above 2 steps until there is no more change in each cluster centriod  
+
+
+
+
+
+
+
+

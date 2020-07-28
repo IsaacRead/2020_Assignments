@@ -1,0 +1,6181 @@
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589343796115,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589343796130,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589343796131,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589343796131,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589343796132,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589343796133,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344341090,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344341108,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344341108,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344341109,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344341109,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344341110,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344341116,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344341116,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344341117,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344341117,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344341117,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344341118,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344348220,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344348255,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344348257,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344348258,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344348258,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344348260,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344397422,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344397453,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344397455,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344397455,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344397456,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344397456,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344793700,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344793719,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344793722,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344793722,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344793723,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344793723,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344793731,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344793732,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344793733,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344793734,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344793742,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344793754,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344804055,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344804072,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344804074,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344804074,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344804075,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344804075,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344816121,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344816152,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344816153,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344816161,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344816162,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344816163,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344914089,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344914101,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344914102,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344914102,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344914103,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344914103,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344914114,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344914114,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344914115,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344914115,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344914115,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344914116,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589344922690,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589344922704,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589344922705,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589344922706,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589344922708,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589344922709,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589345364274,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589345364294,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589345364296,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589345364296,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589345364297,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589345364297,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589345374267,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589345374301,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589345374302,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589345374303,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589345374304,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589345374305,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589345381460,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589345381486,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589345381492,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589345381493,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589345381494,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589345381495,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589347661466,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589347661484,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589347661485,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589347661486,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589347661486,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589347661486,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589347661488,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589347681706,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589347681722,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589347681724,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589347681725,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589347681727,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589347681729,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589347681730,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589347879753,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589347879767,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589347879768,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589347879769,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589347879770,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589347879770,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589347879771,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589347929568,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589347929582,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589347929583,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589347929585,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589347929586,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589347929587,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589347929589,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589347943929,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589347943965,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589347943970,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589347943970,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589347943971,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589347943972,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589347943975,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589348784529,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589348784551,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589348784552,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589348784553,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589348784554,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589348784554,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589348784555,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589348864168,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589348864202,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589348864211,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589348864213,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589348864217,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589348864220,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589348864220,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589348864223,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589348883913,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589348883938,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589348883939,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589348883940,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589348883942,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589348883945,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589348883946,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589348883947,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589348905683,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589348905711,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589348905712,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589348905717,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589348905721,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589348905723,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589348905724,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589348905732,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589348927136,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589348927164,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589348927166,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589348927168,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589348927170,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589348927170,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589348927171,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589348927172,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589348950877,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589348950909,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589348950910,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589348950913,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589348950914,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589348950915,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589348950921,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589348950924,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589348965314,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589348965341,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589348965345,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589348965346,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589348965349,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589348965350,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589348965352,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589348965356,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589353123659,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589353123725,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589353123731,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589353123735,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589353123736,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589353123737,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589353123737,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353123741,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589353254703,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589353254749,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589353254756,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589353254757,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589353254758,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589353254759,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589353254763,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353254765,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589353427175,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353427227,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589353427235,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589353427240,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589353427241,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589353427242,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589353427243,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589353427247,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353427249,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353427278,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589353499366,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353499410,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589353499425,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589353499427,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589353499428,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589353499429,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589353499431,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589353499436,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353499440,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353499500,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589353514531,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353514574,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589353514590,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589353514592,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589353514593,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589353514595,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589353514596,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589353514597,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353514600,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353514610,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589353522047,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353522090,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589353522109,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589353522118,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589353522123,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589353522124,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589353522125,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589353522126,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353522127,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnmod1",
+   "starttime": 1589353522145,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589353687854,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589353687892,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589353687907,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589353687909,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589353687915,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589353687916,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589353687917,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589353687927,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589353687929,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589353687934,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589354744375,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589354744387,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589354744391,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589354744392,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589354744392,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589354744393,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589354744393,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589354744394,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589354744395,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589354744398,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589354744398,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589354744399,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589354744399,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589354744409,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589354876500,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589354876522,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589354876532,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589354876533,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589354876534,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589354876534,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589354876544,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589354876544,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589354876546,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589354876568,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589354902751,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589354902782,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589354902785,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589354902793,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589354902794,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589354902795,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589354902796,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589354902796,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589354902798,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589354902804,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589354902805,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589354902805,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589354902806,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589354902807,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589355111812,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589355111851,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589355111864,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589355111865,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589355111866,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589355111868,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589355111869,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589355111872,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589355111875,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589355111884,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589355111885,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589355111886,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589355111886,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589355111889,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589355132952,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589355132995,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589355133004,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589355133008,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589355133008,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589355133009,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589355133009,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589355133011,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589355133022,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589355133036,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589355133037,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589355133038,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589355133039,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589355133040,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "TRACE",
+   "logger": "loggerRemOldest",
+   "starttime": 1589425231634,
+   "thread": "main",
+   "message": "traceMessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589425231875,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589425231881,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589425231887,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589425231892,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589425231893,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589425231893,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589425231894,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589425231894,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589425231905,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425231909,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425231910,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425231910,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425231910,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589425231911,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589425536472,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589425536496,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589425536501,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589425536502,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589425536503,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589425536504,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589425536504,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589425536505,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589425536518,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425536526,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425536528,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425536532,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425536532,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589425536533,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589425697675,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589425697708,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589425697720,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589425697721,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589425697722,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589425697722,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589425697723,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589425697723,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589425697732,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425697736,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425697736,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425697737,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589425697737,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589425697741,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589426441048,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589426441113,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589426441117,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589426441121,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589426441122,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589426441122,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589426441122,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589426441123,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589426441130,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589426441133,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589426441133,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589426441134,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589426441134,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589426441135,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589427004819,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589427004846,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589427004853,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589427004863,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589427004864,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589427004864,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589427004865,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589427004866,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589427004868,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427004878,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427004879,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427004879,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427004879,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589427004880,
+   "thread": "main",
+   "message": "memAppenders log list could be removed from"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589427070156,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589427070185,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589427070200,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589427070200,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589427070201,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589427070201,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589427070202,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589427070202,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589427070204,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427070206,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427070207,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427070207,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427070212,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589427070213,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589427330490,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589427330541,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589427330552,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589427330564,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589427330565,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589427330573,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589427330574,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589427330576,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589427330585,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427330596,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427330600,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427330606,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427330607,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589427330608,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589427499136,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589427499185,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589427499189,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589427499190,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589427499191,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589427499191,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589427499192,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589427499193,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589427499197,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427499200,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427499200,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427499208,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427499208,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589427499210,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589427515964,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589427516037,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589427516041,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589427516042,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589427516043,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589427516043,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589427516044,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589427516045,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589427516048,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427516051,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427516052,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427516053,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589427516053,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589427516054,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger0",
+   "starttime": 1589428225008,
+   "thread": "main",
+   "message": "DEBUG_test_0 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger1",
+   "starttime": 1589428225057,
+   "thread": "main",
+   "message": "DEBUG_test_1 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger2",
+   "starttime": 1589428225080,
+   "thread": "main",
+   "message": "DEBUG_test_2 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger3",
+   "starttime": 1589428225089,
+   "thread": "main",
+   "message": "DEBUG_test_3 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger4",
+   "starttime": 1589428225106,
+   "thread": "main",
+   "message": "DEBUG_test_4 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger0",
+   "starttime": 1589428225122,
+   "thread": "main",
+   "message": "WARN_test_0 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger1",
+   "starttime": 1589428225125,
+   "thread": "main",
+   "message": "WARN_test_1 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger2",
+   "starttime": 1589428225149,
+   "thread": "main",
+   "message": "WARN_test_2 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger3",
+   "starttime": 1589428225166,
+   "thread": "main",
+   "message": "WARN_test_3 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger4",
+   "starttime": 1589428225171,
+   "thread": "main",
+   "message": "WARN_test_4 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger0",
+   "starttime": 1589428225175,
+   "thread": "main",
+   "message": "TRACE_test_0 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger1",
+   "starttime": 1589428225177,
+   "thread": "main",
+   "message": "TRACE_test_1 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger2",
+   "starttime": 1589428225217,
+   "thread": "main",
+   "message": "TRACE_test_2 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger3",
+   "starttime": 1589428225219,
+   "thread": "main",
+   "message": "TRACE_test_3 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger4",
+   "starttime": 1589428225221,
+   "thread": "main",
+   "message": "TRACE_test_4 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger0",
+   "starttime": 1589428225232,
+   "thread": "main",
+   "message": "INFO_test_0 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger1",
+   "starttime": 1589428225242,
+   "thread": "main",
+   "message": "INFO_test_1 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger2",
+   "starttime": 1589428225254,
+   "thread": "main",
+   "message": "INFO_test_2 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger3",
+   "starttime": 1589428225256,
+   "thread": "main",
+   "message": "INFO_test_3 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger4",
+   "starttime": 1589428225260,
+   "thread": "main",
+   "message": "INFO_test_4 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger0",
+   "starttime": 1589428225270,
+   "thread": "main",
+   "message": "FATAL_test_0 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger1",
+   "starttime": 1589428225284,
+   "thread": "main",
+   "message": "FATAL_test_1 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger2",
+   "starttime": 1589428225286,
+   "thread": "main",
+   "message": "FATAL_test_2 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger3",
+   "starttime": 1589428225289,
+   "thread": "main",
+   "message": "FATAL_test_3 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger4",
+   "starttime": 1589428225291,
+   "thread": "main",
+   "message": "FATAL_test_4 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger0",
+   "starttime": 1589428225293,
+   "thread": "main",
+   "message": "ERROR_test_0 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger1",
+   "starttime": 1589428225295,
+   "thread": "main",
+   "message": "ERROR_test_1 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger2",
+   "starttime": 1589428225298,
+   "thread": "main",
+   "message": "ERROR_test_2 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger3",
+   "starttime": 1589428225299,
+   "thread": "main",
+   "message": "ERROR_test_3 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger4",
+   "starttime": 1589428225301,
+   "thread": "main",
+   "message": "ERROR_test_4 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger0",
+   "starttime": 1589428569412,
+   "thread": "main",
+   "message": "DEBUG_test_0 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger1",
+   "starttime": 1589428569453,
+   "thread": "main",
+   "message": "DEBUG_test_1 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger2",
+   "starttime": 1589428569461,
+   "thread": "main",
+   "message": "DEBUG_test_2 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger3",
+   "starttime": 1589428569467,
+   "thread": "main",
+   "message": "DEBUG_test_3 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger4",
+   "starttime": 1589428569472,
+   "thread": "main",
+   "message": "DEBUG_test_4 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger0",
+   "starttime": 1589428569476,
+   "thread": "main",
+   "message": "WARN_test_0 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger1",
+   "starttime": 1589428569478,
+   "thread": "main",
+   "message": "WARN_test_1 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger2",
+   "starttime": 1589428569480,
+   "thread": "main",
+   "message": "WARN_test_2 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger3",
+   "starttime": 1589428569483,
+   "thread": "main",
+   "message": "WARN_test_3 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger4",
+   "starttime": 1589428569487,
+   "thread": "main",
+   "message": "WARN_test_4 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger0",
+   "starttime": 1589428569492,
+   "thread": "main",
+   "message": "TRACE_test_0 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger1",
+   "starttime": 1589428569494,
+   "thread": "main",
+   "message": "TRACE_test_1 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger2",
+   "starttime": 1589428569524,
+   "thread": "main",
+   "message": "TRACE_test_2 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger3",
+   "starttime": 1589428569526,
+   "thread": "main",
+   "message": "TRACE_test_3 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger4",
+   "starttime": 1589428569528,
+   "thread": "main",
+   "message": "TRACE_test_4 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger0",
+   "starttime": 1589428569533,
+   "thread": "main",
+   "message": "INFO_test_0 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger1",
+   "starttime": 1589428569535,
+   "thread": "main",
+   "message": "INFO_test_1 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger2",
+   "starttime": 1589428569537,
+   "thread": "main",
+   "message": "INFO_test_2 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger3",
+   "starttime": 1589428569539,
+   "thread": "main",
+   "message": "INFO_test_3 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger4",
+   "starttime": 1589428569541,
+   "thread": "main",
+   "message": "INFO_test_4 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger0",
+   "starttime": 1589428569543,
+   "thread": "main",
+   "message": "FATAL_test_0 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger1",
+   "starttime": 1589428569545,
+   "thread": "main",
+   "message": "FATAL_test_1 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger2",
+   "starttime": 1589428569547,
+   "thread": "main",
+   "message": "FATAL_test_2 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger3",
+   "starttime": 1589428569552,
+   "thread": "main",
+   "message": "FATAL_test_3 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger4",
+   "starttime": 1589428569558,
+   "thread": "main",
+   "message": "FATAL_test_4 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger0",
+   "starttime": 1589428569562,
+   "thread": "main",
+   "message": "ERROR_test_0 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger1",
+   "starttime": 1589428569565,
+   "thread": "main",
+   "message": "ERROR_test_1 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger2",
+   "starttime": 1589428569569,
+   "thread": "main",
+   "message": "ERROR_test_2 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger3",
+   "starttime": 1589428569571,
+   "thread": "main",
+   "message": "ERROR_test_3 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger4",
+   "starttime": 1589428569573,
+   "thread": "main",
+   "message": "ERROR_test_4 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589429192102,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589429192173,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589429192184,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589429192187,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589429192188,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589429192188,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589429192189,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589429192190,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589429192222,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429192232,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429192233,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429192234,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429192234,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589429192236,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589429301730,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589429301800,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589429301811,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589429301813,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589429301816,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589429301816,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589429301819,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589429301820,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589429301858,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429301877,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429301878,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429301878,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429301884,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589429301892,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589429637914,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589429637993,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589429638007,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589429638008,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589429638008,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589429638009,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589429638009,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589429638010,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589429638028,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429638038,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429638038,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429638039,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589429638039,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589429638042,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589439083329,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589439083406,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589439083413,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589439083414,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589439083414,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589439083414,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589439083415,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589439083415,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589439083437,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439083454,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439083454,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439083455,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439083455,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589439083456,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589439135515,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589439135596,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589439135606,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589439135607,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589439135608,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589439135608,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589439135609,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589439135609,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589439135627,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439135630,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439135631,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439135632,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439135632,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589439135633,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589439172559,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589439172661,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589439172670,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589439172670,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589439172670,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589439172671,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589439172671,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589439172671,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589439172689,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439172709,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439172710,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439172712,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439172715,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589439172718,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589439891948,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589439892026,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589439892043,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589439892044,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589439892044,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589439892044,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589439892045,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589439892045,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589439892091,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439892112,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439892113,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439892113,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589439892113,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589439892114,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589440327776,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589440327934,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589440327951,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589440327953,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589440327964,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589440327965,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589440327966,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589440327967,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589440328018,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589440328029,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589440328033,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589440328033,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589440328034,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589440328037,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589501346679,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589501346745,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589501346750,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589501346752,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589501346753,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589501346753,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589501346754,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589501346754,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589501346772,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589501346783,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589501346785,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589501346786,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589501346791,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589501346793,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589501743284,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589501743349,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589501743352,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589501743353,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589501743353,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589501743353,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589501743354,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589501743354,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589501743366,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589501743368,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589501743368,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589501743369,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589501743369,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589501743370,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589502450336,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589502450463,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589502450472,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589502450477,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589502450477,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589502450478,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589502450478,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589502450479,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589502450541,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589502450560,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589502450562,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589502450565,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589502450567,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589502450572,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger0",
+   "starttime": 1589502450619,
+   "thread": "main",
+   "message": "DEBUG_test_0 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger1",
+   "starttime": 1589502450623,
+   "thread": "main",
+   "message": "DEBUG_test_1 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger2",
+   "starttime": 1589502450627,
+   "thread": "main",
+   "message": "DEBUG_test_2 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger3",
+   "starttime": 1589502450631,
+   "thread": "main",
+   "message": "DEBUG_test_3 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger4",
+   "starttime": 1589502450645,
+   "thread": "main",
+   "message": "DEBUG_test_4 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger0",
+   "starttime": 1589502450653,
+   "thread": "main",
+   "message": "WARN_test_0 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger1",
+   "starttime": 1589502450656,
+   "thread": "main",
+   "message": "WARN_test_1 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger2",
+   "starttime": 1589502450663,
+   "thread": "main",
+   "message": "WARN_test_2 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger3",
+   "starttime": 1589502450673,
+   "thread": "main",
+   "message": "WARN_test_3 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger4",
+   "starttime": 1589502450680,
+   "thread": "main",
+   "message": "WARN_test_4 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger0",
+   "starttime": 1589502450682,
+   "thread": "main",
+   "message": "TRACE_test_0 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger1",
+   "starttime": 1589502450683,
+   "thread": "main",
+   "message": "TRACE_test_1 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger2",
+   "starttime": 1589502450685,
+   "thread": "main",
+   "message": "TRACE_test_2 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger3",
+   "starttime": 1589502450688,
+   "thread": "main",
+   "message": "TRACE_test_3 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger4",
+   "starttime": 1589502450689,
+   "thread": "main",
+   "message": "TRACE_test_4 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger0",
+   "starttime": 1589502450691,
+   "thread": "main",
+   "message": "INFO_test_0 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger1",
+   "starttime": 1589502450693,
+   "thread": "main",
+   "message": "INFO_test_1 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger2",
+   "starttime": 1589502450694,
+   "thread": "main",
+   "message": "INFO_test_2 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger3",
+   "starttime": 1589502450698,
+   "thread": "main",
+   "message": "INFO_test_3 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger4",
+   "starttime": 1589502450699,
+   "thread": "main",
+   "message": "INFO_test_4 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger0",
+   "starttime": 1589502450702,
+   "thread": "main",
+   "message": "FATAL_test_0 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger1",
+   "starttime": 1589502450704,
+   "thread": "main",
+   "message": "FATAL_test_1 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger2",
+   "starttime": 1589502450706,
+   "thread": "main",
+   "message": "FATAL_test_2 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger3",
+   "starttime": 1589502450707,
+   "thread": "main",
+   "message": "FATAL_test_3 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger4",
+   "starttime": 1589502450724,
+   "thread": "main",
+   "message": "FATAL_test_4 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger0",
+   "starttime": 1589502450727,
+   "thread": "main",
+   "message": "ERROR_test_0 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger1",
+   "starttime": 1589502450728,
+   "thread": "main",
+   "message": "ERROR_test_1 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger2",
+   "starttime": 1589502450730,
+   "thread": "main",
+   "message": "ERROR_test_2 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger3",
+   "starttime": 1589502450734,
+   "thread": "main",
+   "message": "ERROR_test_3 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger4",
+   "starttime": 1589502450741,
+   "thread": "main",
+   "message": "ERROR_test_4 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589502543423,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589502543661,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589502543671,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589502543674,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589502543675,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589502543678,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589502543679,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589502543680,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589502543711,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589502543724,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589502543728,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589502543730,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589502543732,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589502543736,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger0",
+   "starttime": 1589502543783,
+   "thread": "main",
+   "message": "DEBUG_test_0 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger1",
+   "starttime": 1589502543795,
+   "thread": "main",
+   "message": "DEBUG_test_1 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger2",
+   "starttime": 1589502543805,
+   "thread": "main",
+   "message": "DEBUG_test_2 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger3",
+   "starttime": 1589502543811,
+   "thread": "main",
+   "message": "DEBUG_test_3 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger4",
+   "starttime": 1589502543823,
+   "thread": "main",
+   "message": "DEBUG_test_4 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger0",
+   "starttime": 1589502543833,
+   "thread": "main",
+   "message": "WARN_test_0 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger1",
+   "starttime": 1589502543835,
+   "thread": "main",
+   "message": "WARN_test_1 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger2",
+   "starttime": 1589502543845,
+   "thread": "main",
+   "message": "WARN_test_2 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger3",
+   "starttime": 1589502543851,
+   "thread": "main",
+   "message": "WARN_test_3 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger4",
+   "starttime": 1589502543856,
+   "thread": "main",
+   "message": "WARN_test_4 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger0",
+   "starttime": 1589502543861,
+   "thread": "main",
+   "message": "TRACE_test_0 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger1",
+   "starttime": 1589502543863,
+   "thread": "main",
+   "message": "TRACE_test_1 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger2",
+   "starttime": 1589502543867,
+   "thread": "main",
+   "message": "TRACE_test_2 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger3",
+   "starttime": 1589502543871,
+   "thread": "main",
+   "message": "TRACE_test_3 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger4",
+   "starttime": 1589502543874,
+   "thread": "main",
+   "message": "TRACE_test_4 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger0",
+   "starttime": 1589502543880,
+   "thread": "main",
+   "message": "INFO_test_0 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger1",
+   "starttime": 1589502543889,
+   "thread": "main",
+   "message": "INFO_test_1 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger2",
+   "starttime": 1589502543893,
+   "thread": "main",
+   "message": "INFO_test_2 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger3",
+   "starttime": 1589502543907,
+   "thread": "main",
+   "message": "INFO_test_3 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger4",
+   "starttime": 1589502543915,
+   "thread": "main",
+   "message": "INFO_test_4 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger0",
+   "starttime": 1589502543926,
+   "thread": "main",
+   "message": "FATAL_test_0 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger1",
+   "starttime": 1589502543932,
+   "thread": "main",
+   "message": "FATAL_test_1 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger2",
+   "starttime": 1589502543937,
+   "thread": "main",
+   "message": "FATAL_test_2 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger3",
+   "starttime": 1589502543940,
+   "thread": "main",
+   "message": "FATAL_test_3 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger4",
+   "starttime": 1589502543955,
+   "thread": "main",
+   "message": "FATAL_test_4 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger0",
+   "starttime": 1589502543964,
+   "thread": "main",
+   "message": "ERROR_test_0 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger1",
+   "starttime": 1589502543969,
+   "thread": "main",
+   "message": "ERROR_test_1 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger2",
+   "starttime": 1589502543975,
+   "thread": "main",
+   "message": "ERROR_test_2 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger3",
+   "starttime": 1589502543978,
+   "thread": "main",
+   "message": "ERROR_test_3 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger4",
+   "starttime": 1589502543983,
+   "thread": "main",
+   "message": "ERROR_test_4 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503038186,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503038228,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503038559,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503038568,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503038568,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503038569,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503038571,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503038572,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503038573,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503038576,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503038587,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503038588,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503038592,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503038592,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503205584,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503205617,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503205964,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503205971,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503205971,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503205972,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503205976,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503205979,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503205979,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503205981,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503205996,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503206001,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503206002,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503206003,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503214538,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503214565,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503214911,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503214914,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503214925,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503214926,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503214926,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503214927,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503214927,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503214928,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503214934,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503214936,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503214936,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503214936,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503239151,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503239172,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503239453,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503239455,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503239461,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503239461,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503239462,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503239462,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503239462,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503239463,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503239467,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503239468,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503239468,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503239468,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503270930,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503270941,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503271066,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503271068,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503271069,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503271069,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503271070,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503271070,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503271070,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503271071,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503271078,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503271079,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503271079,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503271080,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503436708,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503436738,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503437101,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503437110,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503437111,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503437111,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503437112,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503437115,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503437119,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503437124,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503437139,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503437140,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503437141,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503437142,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503763012,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503763030,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503763267,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503763269,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503763270,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503763270,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503763271,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503763277,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503763278,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503763282,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503763287,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503763288,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503763288,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503763289,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503775814,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503775846,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503776147,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503776151,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503776151,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503776151,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503776153,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503776153,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503776154,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503776155,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503776164,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503776164,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503776165,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503776166,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnrem1",
+   "starttime": 1589503870677,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUnadd1",
+   "starttime": 1589503870957,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "logger1",
+   "starttime": 1589503871442,
+   "thread": "main",
+   "message": "debug message"
+}
+{
+   "level": "TRACE",
+   "logger": "test1Logger",
+   "starttime": 1589503871455,
+   "thread": "main",
+   "message": "tracemessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "test1Logger",
+   "starttime": 1589503871461,
+   "thread": "main",
+   "message": "debugmessage"
+}
+{
+   "level": "INFO",
+   "logger": "test1Logger",
+   "starttime": 1589503871462,
+   "thread": "main",
+   "message": "infomessage"
+}
+{
+   "level": "WARN",
+   "logger": "test1Logger",
+   "starttime": 1589503871464,
+   "thread": "main",
+   "message": "warnmessage"
+}
+{
+   "level": "ERROR",
+   "logger": "test1Logger",
+   "starttime": 1589503871465,
+   "thread": "main",
+   "message": "errormessage"
+}
+{
+   "level": "FATAL",
+   "logger": "test1Logger",
+   "starttime": 1589503871466,
+   "thread": "main",
+   "message": "fatalmessage"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggerUncast1",
+   "starttime": 1589503871475,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503871494,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503871495,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503871503,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "loggermaxsize1",
+   "starttime": 1589503871504,
+   "thread": "main",
+   "message": "message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger0",
+   "starttime": 1589503871686,
+   "thread": "main",
+   "message": "DEBUG_test_0 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger1",
+   "starttime": 1589503871693,
+   "thread": "main",
+   "message": "DEBUG_test_1 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger2",
+   "starttime": 1589503871700,
+   "thread": "main",
+   "message": "DEBUG_test_2 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger3",
+   "starttime": 1589503871703,
+   "thread": "main",
+   "message": "DEBUG_test_3 log message"
+}
+{
+   "level": "DEBUG",
+   "logger": "DEBUG_Logger4",
+   "starttime": 1589503871727,
+   "thread": "main",
+   "message": "DEBUG_test_4 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger0",
+   "starttime": 1589503871735,
+   "thread": "main",
+   "message": "WARN_test_0 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger1",
+   "starttime": 1589503871752,
+   "thread": "main",
+   "message": "WARN_test_1 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger2",
+   "starttime": 1589503871761,
+   "thread": "main",
+   "message": "WARN_test_2 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger3",
+   "starttime": 1589503871768,
+   "thread": "main",
+   "message": "WARN_test_3 log message"
+}
+{
+   "level": "WARN",
+   "logger": "WARN_Logger4",
+   "starttime": 1589503871778,
+   "thread": "main",
+   "message": "WARN_test_4 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger0",
+   "starttime": 1589503871785,
+   "thread": "main",
+   "message": "TRACE_test_0 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger1",
+   "starttime": 1589503871798,
+   "thread": "main",
+   "message": "TRACE_test_1 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger2",
+   "starttime": 1589503871804,
+   "thread": "main",
+   "message": "TRACE_test_2 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger3",
+   "starttime": 1589503871815,
+   "thread": "main",
+   "message": "TRACE_test_3 log message"
+}
+{
+   "level": "TRACE",
+   "logger": "TRACE_Logger4",
+   "starttime": 1589503871819,
+   "thread": "main",
+   "message": "TRACE_test_4 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger0",
+   "starttime": 1589503871827,
+   "thread": "main",
+   "message": "INFO_test_0 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger1",
+   "starttime": 1589503871831,
+   "thread": "main",
+   "message": "INFO_test_1 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger2",
+   "starttime": 1589503871836,
+   "thread": "main",
+   "message": "INFO_test_2 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger3",
+   "starttime": 1589503871839,
+   "thread": "main",
+   "message": "INFO_test_3 log message"
+}
+{
+   "level": "INFO",
+   "logger": "INFO_Logger4",
+   "starttime": 1589503871843,
+   "thread": "main",
+   "message": "INFO_test_4 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger0",
+   "starttime": 1589503871846,
+   "thread": "main",
+   "message": "FATAL_test_0 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger1",
+   "starttime": 1589503871851,
+   "thread": "main",
+   "message": "FATAL_test_1 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger2",
+   "starttime": 1589503871854,
+   "thread": "main",
+   "message": "FATAL_test_2 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger3",
+   "starttime": 1589503871866,
+   "thread": "main",
+   "message": "FATAL_test_3 log message"
+}
+{
+   "level": "FATAL",
+   "logger": "FATAL_Logger4",
+   "starttime": 1589503871871,
+   "thread": "main",
+   "message": "FATAL_test_4 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger0",
+   "starttime": 1589503871877,
+   "thread": "main",
+   "message": "ERROR_test_0 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger1",
+   "starttime": 1589503871882,
+   "thread": "main",
+   "message": "ERROR_test_1 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger2",
+   "starttime": 1589503871889,
+   "thread": "main",
+   "message": "ERROR_test_2 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger3",
+   "starttime": 1589503871893,
+   "thread": "main",
+   "message": "ERROR_test_3 log message"
+}
+{
+   "level": "ERROR",
+   "logger": "ERROR_Logger4",
+   "starttime": 1589503871898,
+   "thread": "main",
+   "message": "ERROR_test_4 log message"
+}

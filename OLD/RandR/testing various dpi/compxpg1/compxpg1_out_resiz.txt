@@ -1,0 +1,45 @@
+ane. otherwise create 4 new plant as per the existing code. You can check ify
+there is an existing plant in that position by looping through the list of?
+plants, and calling the IsClicked method, passing in the current mouse
+position. Can you say what plant is at that position, if ne already is? .si, id
+
+Task 2: BlackJack continued = Bas
+NOTE: Do not
+use Save As from Visual Studio, as this only makes @ copy of one file, -
+not the whole project.
+
+a ot
+Modify your code so that it has a list of cards representing the users’
+“> hand. instead of the two
+
+text boxes). Add a button so the player can get an extra card.
+
+s i i ist in the listbox.
+‘din’: (EEMMIBBE: Then loop through the list and display the list in b
+_ Also, keep a total of the points from the cards in the players hand (list).,
+___ Display this total.
+
+T” When you have this working, do the same for the computers hand. SMW =e" ra
+
+pene :
+‘onan ;. _If you implemented the betting, then the player automatically gets paid if?
+ay ugdee: 2, their hand size is 5 or more cards and the sum is still 21 or less. i
+
+ins inivk, <a
+
+The file timmovies.csv contains the movie viewing details of a customer
+called Tim. Write a program that reads each line from the file and creates
+a movie viewing object using the data. It then checks if the points have
+
+* expired (using today’s date), and displays the information about the
+points with either the word “expired” or “unclaimed”. You do not need to
+store all of the movie viewing objects at this stage (see below). You can
+also check your code on the file gawain.csv.
+
+Extend your code to store a list of movie-viewing objects along with the ~
+members number, Change the code from step 1 to check if the points
+have expired by looping through the list, rather than as they have been
+read from the file. Note that this will now need to happen after you have
+finished reading the file. Check that your points expiry code still works.
+
+Piatt «

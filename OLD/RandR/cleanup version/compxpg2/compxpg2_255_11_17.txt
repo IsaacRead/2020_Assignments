@@ -1,0 +1,57 @@
+Practical P4
+Composition and Aggregation
+
+ 
+
+how and when to use association
+
+The goal of this practical is to practice
+i : x ther objects. It will also show the
+
+of objects, that is, objects that contain o'
+difference between composition and aggregation. et
+
+ 
+
+Task 1: MP3 Player
+
+Open the project called PracP4. It contains a C# program that is the basis [
+of a simple mp3 player. The form contains a listbox for viewing a playlist
+
+of mp3 songs, and controls for loading and saving playlists, and for
+adding and removing mp3s from a playlist.
+
+The project has a class called Song that stores details about a song anda
+class called Playlist that stores all songs in the playlist. Playlist has an
+aggregation relationship to Song, i. Playlist ‘has a’ Song. Each class
+has appropriate constructors, properties and methods to access and
+update the information in each class.
+
+Play with the mp3 player and see what works and what doesn’t.
+Understand how the existing code works. Then alter the code to
+implement the following features:
+
+oa
+
+Ll. Saving Playlists
+
+Write code for the Save Playlist menu item that saves the currently
+selected playlist to a CSV file. Use a Save File Dialog window to ask the
+user where to save the playlist. Make the initial suggested filename the
+same as the name of the playlist. The information about each song in the
+playlist should be saved to the file in CSV format, with one record for
+each song.
+
+om
+
+ioe
+
+2. Generating a Playlist by Rating
+
+Add a feature that lets the user input a rating value with which the
+program will automatically gcncrate a new playlist from the currently
+selected playlist that contains only songs that have that rating value. For
+more challenge, have it generate the new playlist from songs in all
+playlists currently open (sec step 3 below).
+
+mi op om.

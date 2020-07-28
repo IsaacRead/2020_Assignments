@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>LogsStatistics.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">a2-server Maven Webapp</a> &gt; <a href="index.source.html" class="el_package">nz.ac.vuw.swen301.a2.server</a> &gt; <span class="el_source">LogsStatistics.java</span></div><h1>LogsStatistics.java</h1><pre class="source lang-java linenums">package nz.ac.vuw.swen301.a2.server;
+
+import java.text.SimpleDateFormat;
+import java.time.Instant;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import org.json.JSONObject;
+
+<span class="nc" id="L11">public class LogsStatistics {</span>
+	
+	private static boolean updateStat(String statInput, int inputCol, int startIndex, int endIndex,
+			List&lt;List&lt;String&gt;&gt; logCells) {
+		// String currLevel = log.getString(&quot;level&quot;);
+<span class="fc" id="L16">		int inputRow = 0;</span>
+<span class="fc bfc" id="L17" title="All 2 branches covered.">		for (int i = startIndex; i &lt; endIndex; i++) {</span>
+<span class="fc bfc" id="L18" title="All 2 branches covered.">			if (logCells.get(i).get(0).equals(statInput)) {</span>
+<span class="fc" id="L19">				inputRow = i;</span>
+			}
+		}
+<span class="fc" id="L22">		boolean insertedRow = false;</span>
+<span class="fc bfc" id="L23" title="All 2 branches covered.">		if (inputRow == 0) {</span>
+<span class="fc" id="L24">			inputRow = startIndex;</span>
+<span class="fc" id="L25">			logCells.add(inputRow, new ArrayList&lt;String&gt;() {</span>
+				{
+<span class="fc" id="L27">					add(statInput);</span>
+				}
+			});
+<span class="fc bfc" id="L30" title="All 2 branches covered.">			for (int i = 1; i &lt; logCells.get(0).size(); i++) {</span>
+<span class="fc" id="L31">				logCells.get(inputRow).add(&quot;0&quot;);</span>
+			}
+<span class="fc" id="L33">			insertedRow = true;</span>
+		}
+//		System.out.println(statInput);
+//		System.out.println(inputRow);
+//		System.out.println(inputCol);
+<span class="fc" id="L38">		int count = Integer.parseInt(logCells.get(inputRow).get(inputCol));</span>
+<span class="fc" id="L39">		count++;</span>
+//		System.out.println(count);
+<span class="fc" id="L41">		logCells.get(inputRow).set(inputCol, String.valueOf(count));</span>
+<span class="fc" id="L42">		return insertedRow;</span>
+	}
+
+	private static void printlogCells(List&lt;List&lt;String&gt;&gt; logCells) {
+<span class="nc" id="L46">		System.out.print(&quot;\n\n&quot;);</span>
+<span class="nc bnc" id="L47" title="All 2 branches missed.">		for (int i = 0; i &lt; logCells.size(); i++) {</span>
+<span class="nc bnc" id="L48" title="All 2 branches missed.">			for (int j = 0; j &lt; logCells.get(i).size(); j++) {</span>
+<span class="nc" id="L49">				System.out.print(logCells.get(i).get(j));</span>
+<span class="nc" id="L50">				System.out.print(&quot; &quot;);</span>
+			}
+<span class="nc" id="L52">			System.out.print(&quot;\n&quot;);</span>
+		}
+<span class="nc" id="L54">	}</span>
+
+	public static List&lt;List&lt;String&gt;&gt; logsToNestedList(){	
+		//System.out.println(LogsServlet.logs.size());
+<span class="fc" id="L58">		List&lt;List&lt;String&gt;&gt; logCells = new ArrayList&lt;List&lt;String&gt;&gt;();</span>
+
+<span class="fc" id="L60">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L62">				add(&quot;Date&quot;);</span>
+			}
+		});
+<span class="fc" id="L65">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L67">				add(&quot;TRACE&quot;);</span>
+			}
+		});
+<span class="fc" id="L70">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L72">				add(&quot;DEBUG&quot;);</span>
+			}
+		});
+<span class="fc" id="L75">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L77">				add(&quot;INFO&quot;);</span>
+			}
+		});
+<span class="fc" id="L80">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L82">				add(&quot;WARN&quot;);</span>
+			}
+		});
+<span class="fc" id="L85">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L87">				add(&quot;ERROR&quot;);</span>
+			}
+		});
+<span class="fc" id="L90">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L92">				add(&quot;FATAL&quot;);</span>
+			}
+		});
+
+<span class="fc" id="L96">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L98">				add(&quot;&quot;);</span>
+			}
+		});
+
+<span class="fc" id="L102">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L104">				add(&quot;&quot;);</span>
+			}
+		});
+<span class="fc" id="L107">		logCells.add(new ArrayList&lt;String&gt;() {</span>
+			{
+<span class="fc" id="L109">				add(&quot;&quot;);</span>
+			}
+		});
+
+<span class="fc" id="L113">		int loggerRowStart = 8;</span>
+<span class="fc" id="L114">		int threadRowStart = 9;</span>
+
+<span class="fc" id="L116">		List&lt;JSONObject&gt; serverLogs = LogsServlet.getAllLogs();</span>
+<span class="fc bfc" id="L117" title="All 2 branches covered.">		for (JSONObject log : serverLogs) {</span>
+			try {
+		
+<span class="fc" id="L120">			Instant logTime = Instant.parse(log.getString(&quot;timestamp&quot;));</span>
+<span class="fc" id="L121">			Date myDate = Date.from(logTime);</span>
+			// DateTimeFormatter myFormatObj = DateTimeFormatter.ofPattern(&quot;dd-MM-yyyy&quot;);
+<span class="fc" id="L123">			SimpleDateFormat formatter = new SimpleDateFormat(&quot;dd-MM-yyyy&quot;);</span>
+			// String formattedDate = myFormatObj.format(myDate);
+<span class="fc" id="L125">			String formattedDate = formatter.format(myDate);</span>
+			// Date insertDate = (Date) myFormatObj.parse(formattedDate);
+			Date insertDate;
+		
+<span class="fc" id="L129">			insertDate = (Date) formatter.parse(formattedDate);</span>
+<span class="fc" id="L130">				int collIndex = 0;</span>
+
+<span class="pc bfc" id="L132" title="All 2 branches covered.">				for (int i = 1; i &lt; logCells.get(0).size(); i++) {</span>
+					// Date cellDate = (Date) myFormatObj.parse(logCells.get(i).get(0));
+
+<span class="fc" id="L135">					Date cellDate = (Date) formatter.parse(logCells.get(0).get(i));</span>
+<span class="fc bfc" id="L136" title="All 2 branches covered.">					if (insertDate.before(cellDate)) {</span>
+<span class="fc" id="L137">						logCells.get(0).add(i, formattedDate);</span>
+<span class="fc bfc" id="L138" title="All 2 branches covered.">						for (int j = 1; j &lt; logCells.size(); j++) {</span>
+<span class="fc bfc" id="L139" title="All 2 branches covered.">							if (!logCells.get(j).get(0).equals(&quot;&quot;)) {</span>
+<span class="fc" id="L140">								logCells.get(j).add(i, &quot;0&quot;);</span>
+							}
+						}
+<span class="fc" id="L143">						collIndex = i;</span>
+<span class="fc" id="L144">						break;</span>
+<span class="pc bpc" id="L145" title="1 of 2 branches missed.">					} else if (insertDate.equals(cellDate)) {</span>
+<span class="fc" id="L146">						collIndex = i;</span>
+<span class="fc" id="L147">						break;</span>
+					}
+				}
+<span class="fc bfc" id="L150" title="All 2 branches covered.">				if (collIndex == 0) {</span>
+<span class="fc" id="L151">					collIndex = logCells.get(0).size();</span>
+<span class="fc" id="L152">					logCells.get(0).add(formattedDate);</span>
+<span class="fc bfc" id="L153" title="All 2 branches covered.">					for (int j = 1; j &lt; logCells.size(); j++) {</span>
+<span class="fc bfc" id="L154" title="All 2 branches covered.">						if (!logCells.get(j).get(0).equals(&quot;&quot;)) {</span>
+<span class="fc" id="L155">							logCells.get(j).add(&quot;0&quot;);</span>
+						}
+					}
+				}
+				
+<span class="pc bpc" id="L160" title="1 of 2 branches missed.">				if (updateStat(log.getString(&quot;level&quot;), collIndex, 1, loggerRowStart, logCells)) {</span>
+<span class="nc" id="L161">					loggerRowStart++;</span>
+<span class="nc" id="L162">					threadRowStart++;</span>
+				}
+				
+<span class="fc bfc" id="L165" title="All 2 branches covered.">				if (updateStat(log.getString(&quot;logger&quot;), collIndex, loggerRowStart, threadRowStart, logCells)) {</span>
+<span class="fc" id="L166">					threadRowStart++;</span>
+				}
+				
+<span class="fc" id="L169">				updateStat(log.getString(&quot;thread&quot;), collIndex, threadRowStart, logCells.size(), logCells);</span>
+			//printlogCells(logCells);
+			
+<span class="pc" id="L172">		} catch (Exception e) {</span>
+			// TODO Auto-generated catch block
+<span class="nc" id="L174">			e.printStackTrace();</span>
+			}			
+		}
+<span class="fc" id="L177">		return logCells;</span>
+		
+	}
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.3.201901230119</span></div></body></html>
